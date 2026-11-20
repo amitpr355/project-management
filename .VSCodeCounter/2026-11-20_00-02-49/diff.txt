@@ -1,0 +1,46 @@
+Date : 2026-11-20 00:02:49
+Directory : c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\controllers
+Total : 14 files,  -364 codes, -6 comments, -67 blanks, all -437 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         14 |       -364 |         -6 |        -67 |       -437 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                        |         14 |       -364 |         -6 |        -67 |       -437 |
+| ..                                                                                                       |         14 |       -364 |         -6 |        -67 |       -437 |
+| .. (Files)                                                                                               |          2 |        -43 |         -3 |        -12 |        -58 |
+| ..\db                                                                                                    |          1 |        -13 |          0 |         -3 |        -16 |
+| ..\middlewares                                                                                           |          2 |        -36 |          0 |         -8 |        -44 |
+| ..\models                                                                                                |          1 |        -94 |          0 |        -12 |       -106 |
+| ..\routes                                                                                                |          2 |        -22 |         -1 |         -9 |        -32 |
+| ..\utils                                                                                                 |          5 |       -128 |         -2 |        -19 |       -149 |
+| ..\validators                                                                                            |          1 |        -28 |          0 |         -4 |        -32 |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                 | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\app.js                              | JavaScript |        -26 |         -3 |         -8 |        -37 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\db\index.js                         | JavaScript |        -13 |          0 |         -3 |        -16 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\index.js                            | JavaScript |        -17 |          0 |         -4 |        -21 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\middlewares\auth.middleware.js      | JavaScript |        -25 |          0 |         -6 |        -31 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\middlewares\validator.middleware.js | JavaScript |        -11 |          0 |         -2 |        -13 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\models\user.models.js               | JavaScript |        -94 |          0 |        -12 |       -106 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\routes\auth.routes.js               | JavaScript |        -17 |         -1 |         -5 |        -23 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\routes\healthcheck.routes.js        | JavaScript |         -5 |          0 |         -4 |         -9 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\utils\api-error.js                  | JavaScript |        -21 |          0 |         -3 |        -24 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\utils\api-response.js               | JavaScript |         -9 |          0 |         -1 |        -10 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\utils\async-handler.js              | JavaScript |         -8 |          0 |         -1 |         -9 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\utils\contants.js                   | JavaScript |        -12 |          0 |         -4 |        -16 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\utils\mail.js                       | JavaScript |        -78 |         -2 |        -10 |        -90 |
+| c:\Users\praja\OneDrive\Desktop\f..u\project-management-platform\src\validators\index.js                 | JavaScript |        -28 |          0 |         -4 |        -32 |
+| Total                                                                                                    |            |       -364 |         -6 |        -67 |       -437 |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
